@@ -11,19 +11,19 @@ The app allows healthcare professionals and users to input patient health parame
 
 # ✅ Three-Disease Prediction Models
 
-**🧠 Parkinson’s Disease
+- 🧠 Parkinson’s Disease
 
-**💉 Kidney Disease
+- 💉 Kidney Disease
 
-**💊 Liver Disease
+- 💊 Liver Disease
 
 ---
 
 # ✅ Instant Predictions
 
-**Predicts disease presence (Disease / No Disease)
+- Predicts disease presence (Disease / No Disease)
 
-**Displays prediction probability and risk level (Low / Moderate / High)
+- Displays prediction probability and risk level (Low / Moderate / High)
 
 ## ✅ Streamlit Dashboard
 
@@ -64,7 +64,3 @@ Optimized model loading using @st.cache_resource
 - Probability of disease (e.g., 0.82 = 82%)
 
 - Classification (Disease / No Disease)
-
-Risk Level (Low / Moderate / High)
-
-Results are displayed instantly with clean visualization.
