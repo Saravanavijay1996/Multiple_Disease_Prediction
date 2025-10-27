@@ -25,14 +25,6 @@ The app allows healthcare professionals and users to input patient health parame
 
 - Displays prediction probability and risk level (Low / Moderate / High)
 
-## ✅ Streamlit Dashboard
-
-Intuitive interface with sidebar navigation
-
-Real-time feedback and error handling
-
-Optimized model loading using @st.cache_resource
-
 ---
 
 ## 🧩 Tech Stack
