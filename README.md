@@ -1,6 +1,6 @@
-## 🩺 Multiple Disease Prediction System (Streamlit App)
-# 📖 Project Overview
+## 🩺 Multiple Disease Prediction using Machine Learning
 
+# 🔎 Project Overview 
 The Multiple Disease Prediction System is an interactive Streamlit web application designed to predict the likelihood of various medical conditions — Kidney Disease, Liver Disease, and Parkinson’s Disease — using pre-trained Machine Learning models.
 
 The app allows healthcare professionals and users to input patient health parameters through a simple UI and instantly receive disease risk predictions, probability scores, and categorized risk levels.
