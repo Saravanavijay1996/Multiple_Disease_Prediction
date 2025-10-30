@@ -56,3 +56,11 @@ The app allows healthcare professionals and users to input patient health parame
 - Probability of disease (e.g., 0.82 = 82%)
 
 - Classification (Disease / No Disease)
+
+---
+
+## 👨‍💻 Created By
+
+**Saravana vijay M**
+
+---
